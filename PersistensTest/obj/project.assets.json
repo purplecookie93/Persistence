@@ -6793,11 +6793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\PersistensTest\\PersistensTest.csproj",
+      "projectUniqueName": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\PersistensTest\\PersistensTest.csproj",
       "projectName": "PersistensTest",
-      "projectPath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\PersistensTest\\PersistensTest.csproj",
+      "projectPath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\PersistensTest\\PersistensTest.csproj",
       "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\PersistensTest\\obj\\",
+      "outputPath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\PersistensTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6814,8 +6814,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\Persistens\\Persistens.csproj": {
-              "projectPath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\Persistens\\Persistens.csproj"
+            "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\Persistens\\Persistens.csproj": {
+              "projectPath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\Persistens\\Persistens.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UPImzo+6kuOQ24zOTcfMsaZeTvcXxsGjdS3WjA9n7M2wAexyHVQbfCuSsa5uy11KYNWvP2p58awz0JsHnleLHA==",
+  "dgSpecHash": "ZjceBm1XcFqnD0uC33V1DqZhDhAYQwq4NcZpjRmItB8ifmEbFziR/5WEvX6gbjbBj/eGxPhe8UqoR3Co6KvMtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\PersistensTest\\PersistensTest.csproj",
+  "projectFilePath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\PersistensTest\\PersistensTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\charl\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

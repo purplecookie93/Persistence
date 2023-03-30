@@ -88,7 +88,7 @@ namespace Persistens
         // MakeTitle() Laver den string der indsættes i tekstfilen og printes til consolvinduet 
         public string MakeTitle () 
         {
-           return $"{ this.name};{ this.birthDate};{ this.height};{ this.isMarried};{ this.noOfChildren}"; 
+           return $"{Name};{BirthDate};{Height};{IsMarried};{NoOfChildren}"; 
         }
     }
 }

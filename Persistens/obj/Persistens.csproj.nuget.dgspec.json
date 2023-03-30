@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\Persistens\\Persistens.csproj": {}
+    "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\Persistens\\Persistens.csproj": {}
   },
   "projects": {
-    "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\Persistens\\Persistens.csproj": {
+    "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\Persistens\\Persistens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\Persistens\\Persistens.csproj",
+        "projectUniqueName": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\Persistens\\Persistens.csproj",
         "projectName": "Persistens",
-        "projectPath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\Persistens\\Persistens.csproj",
+        "projectPath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\Persistens\\Persistens.csproj",
         "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistens\\Persistens\\obj\\",
+        "outputPath": "C:\\Users\\charl\\Documents\\Datamatiker\\Visual Studio\\Persistence\\Persistens\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
