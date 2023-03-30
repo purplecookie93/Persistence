@@ -26,7 +26,7 @@ namespace Persistens
         // Metoden skriver dataen til tekstfilen
         public void SavePerson (Person person)
         {
-            StreamWriter writer = new StreamWriter(this.dataFileName);
+            StreamWriter writer = new StreamWriter(DataFileName);
             writer.Write(person.MakeTitle());
             writer.Close();
         }
@@ -34,7 +34,7 @@ namespace Persistens
         // Metoden læser dataen fra tekstfilen og retunere dataen og deler dem op. 
         public Person LoadPerson () 
         {
-            StreamReader reader = new StreamReader(this.dataFileName);
+            StreamReader reader = new StreamReader(DataFileName);
             string line = reader.ReadLine();
             
             reader.Close();
@@ -56,14 +56,14 @@ namespace Persistens
             {
                 data += person.MakeTitle() + "\n";
             }
-            StreamWriter writer = new StreamWriter(this.dataFileName);
+            StreamWriter writer = new StreamWriter(DataFileName);
             writer.Write(data);
             writer.Close();
         }
 
         public Person[] LoadPersons()
         {
-            StreamReader reader = new StreamReader(this.dataFileName);
+            StreamReader reader = new StreamReader(DataFileName);
             string line = reader.ReadLine();
 
             Person[] persons = new Person[50];
