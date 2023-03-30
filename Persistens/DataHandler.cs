@@ -47,7 +47,7 @@ namespace Persistens
 
         
 
-        /* Metode SavePersons() gemmer en datasamling i en tekstfil på hver deres linje */
+        // Metode SavePersons() gemmer en datasamling i en tekstfil på hver deres linje 
         public void SavePersons(Person[] persons)
         {
             string data = "";
